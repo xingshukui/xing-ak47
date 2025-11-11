@@ -17,6 +17,7 @@ public class JmmVolat {
     public static void main(String[] args) {
 //        Demo demo = new Demo();
 //        demo.testError();
+        System.out.println(1);
 
         DemoVolat demoVolat = new DemoVolat();
         demoVolat.testError2();
