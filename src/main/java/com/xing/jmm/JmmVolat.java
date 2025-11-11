@@ -61,6 +61,7 @@ public class JmmVolat {
                 e.printStackTrace();
             }
             log.info("debug....");
+            System.out.println(1);
             demo.setResult(200);
         }
     }
@@ -115,6 +116,7 @@ public class JmmVolat {
                 e.printStackTrace();
             }
             log.info("debug....");
+
             demoVolat.setResult(200);
         }
     }
